@@ -1,0 +1,49 @@
+HTML : struktur dokumen : <tag> 
+CSS : style : bentuk : selector properti nilai
+Javascript : web dinamis : programing client
+JQuery : framework Javascript
+Bootstraps : framework HTML Css 
+-------------> Script Client
+
+PHP
+Code Ignitier ---> MVC : OOP (Class & Object)
+Ralafel
+Yii
+Cake PHP
+-------------> Script Server 
+
+Algoritma Pemrograman : pemecahan masalah dengan langkah logis
+
+Konsep :
+- Sequence
+- Pengkondisian (if, switch)
+- Perulangan (for, foreach, while, do-while)
+
+PHP :
+- fungsi 
+- array 
+
+---------------------------------------------------------------
+algoritma menghubung ke database
+1. membuat koneksi : mysqli_connect
+2. mempersiapkan perintah sql
+3. menjalankan query : mysqli_query
+4. menjadikan array : mysqli_fetch_assoc
+5. tampilkan data
+6. tutup koneksi : mysqli_close
+
+----------------------------------------------------------------
+Create Read Update Delete
+
+
+
+
+
+
+
+
+
+
+
+
+
